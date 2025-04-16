@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 Quero colaborar em projetos e desafios de programação.  
 - 🤔 Preciso de ajuda com padrões de projeto e arquitetura de software.  
 - 💬 Pergunte-me sobre Java, classes, objetos e encapsulamento.  
-- 📫 Como me contatar: [Seu e-mail ou LinkedIn]  
-- 😄 Pronomes: [Seus pronomes]  
-- ⚡ Curiosidade: Aprendi a programar porque queria criar meus próprios jogos! 🎮  
+- 📫 Como me contatar: sandrine.abreu03@aluno.ifce.edu.br  
+- 😄 Pronomes: Ela  
+- ⚡ Curiosidades: Gosto muito de cantar e amo muito uma macarronada!  
